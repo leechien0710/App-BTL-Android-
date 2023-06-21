@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="loai">
+        <item>IPHONE</item>
+        <item>SAMSUNG</item>
+        <item>OPPO</item>
+        <item>XIAOMI</item>
+        <item>LG</item>
+
+    </string-array>
+</resources>
